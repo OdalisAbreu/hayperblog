@@ -1,5 +1,6 @@
 Esta es la hitoria de Dariel Abreu
 
-Realizaremos pruebas para introducir texto plano
+Realizaremos pruebas para introducir texto plano como ejemplo
 
-Hoy hablaremos de esto.
+Hoy hablaremos de esto
+en este documento.
